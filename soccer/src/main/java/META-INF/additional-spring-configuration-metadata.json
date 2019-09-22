@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "soccer.url",
+  "type": "java.lang.String",
+  "description": "A description for 'soccer.url'"
+}]}
